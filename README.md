@@ -14,6 +14,10 @@ The current state of Philippine government websites, particularly the main porta
 
 These issues create barriers for citizens trying to access essential government services and information.
 
+## Join our Discord
+
+https://discord.gg/mHtThpN8bT
+
 ## Our Mission
 
 We are a volunteer-led initiative with a clear mission: to provide a 'better' and 'usable' website for the Philippines.
