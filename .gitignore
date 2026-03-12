@@ -12,6 +12,11 @@ dist
 dist-ssr
 *.local
 
+# Playwright
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -32,3 +37,7 @@ functions/.wrangler
 .wrangler/
 src/data/flood_control/lookups/contractors
 contractor_fetch_log.csv
+wrangler.toml
+
+# Dev
+.cursor/*

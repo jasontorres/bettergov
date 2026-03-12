@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.vercel/
+
+# Coverage
+coverage/
+
+# Environment files
+.env
+.env.*
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs
+*.log
+
+# Misc
+.DS_Store
+tmp/
+temp/
+
+# Public assets
+public/
+
+# Generated files
+*.min.js
+*.map
+
+# Markdown files (skip formatting)
+*.md
+
+# IDE directory
+.idea/
+
+# Cache
+.npm
+.eslintcache
